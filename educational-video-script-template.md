@@ -31,10 +31,10 @@ List out the handful of points you feel this video needs to cover to solve the p
 * Any other calls to action
 
 ## Reviewing your script
-- [] Am I covering all of my main points?
-- [] Is this solving the problem I outlined?
-- [] Is the content appropriate for the persona outlined?
-- [] Can a point be clarified with a graphic?
-- [] Am I using real world examples to clarify points?
-- [] Am I adding irrelevant information as filler that should be removed?
-- [] Do I have two many new points that can be broken into multiple videos?
+- [ ] Am I covering all of my main points?
+- [ ] Is this solving the problem I outlined?
+- [ ] Is the content appropriate for the persona outlined?
+- [ ] Can a point be clarified with a graphic?
+- [ ] Am I using real world examples to clarify points?
+- [ ] Am I adding irrelevant information as filler that should be removed?
+- [ ] Do I have two many new points that can be broken into multiple videos?
