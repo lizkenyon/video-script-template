@@ -2,11 +2,11 @@
 This template can be used as a starting point for building educational videos. After filling out this template you will be able to turn your points into more complete sentences to be used as a script.
 
 ## Value
-Two to three sentences describing the value this video will provide, i.e. the problem this video will solve.
+Two to three sentences describing the value this video will provide, i.e. the problem this video will solve.\
 _This video will be an introduction to Shopify App Proxies. After watching this video developers will gain a general understanding of App Proxies, their capabilities, and basic configuration._
 
 ## Persona
-An example description of someone who would be the target audience for this video.
+An example description of someone who would be the target audience for this video.\
 _Natalie is an intermediate web developer. She is interested in building her first Shopify app. She has completed the getting started guide and is now looking into how to add more complex functionality to apps._
 
 ## Main Points
