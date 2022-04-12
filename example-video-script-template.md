@@ -47,7 +47,7 @@ List out the handful of points you feel this video needs to cover to solve the p
 * Where do they get more information
   * _Learn more in the developer docs_
 * Any other calls to action
- *  _Join discord, slack, and post in community forums_
+ * _Join discord, slack, and post in community forums_
 
 ## Reviewing your script
 - [ ] Am I covering all of my main points?
