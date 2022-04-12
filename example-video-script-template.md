@@ -45,7 +45,7 @@ List out the handful of points you feel this video needs to cover to solve the p
 * What they learned
   * _Learned what app proxies are and basic set up_
 * Where do they get more information
-  _Learn more in the developer docs_
+  * _Learn more in the developer docs_
 * Any other calls to action
  *  _Join discord, slack, and post in community forums_
 
