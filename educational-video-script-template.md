@@ -37,4 +37,4 @@ List out the handful of points you feel this video needs to cover to solve the p
 - [ ] Can a point be clarified with a graphic?
 - [ ] Am I using real world examples to clarify points?
 - [ ] Am I adding irrelevant information as filler that should be removed?
-- [ ] Do I have two many new points that can be broken into multiple videos?
+- [ ] Do I have too many new points that can be broken into multiple videos?
